@@ -5,7 +5,6 @@ import Transaction from '../src/pages/transcation/Transaction.jsx'
 import Support from '../src/pages/support/Support.jsx'
 
 function App() {
-
   const router = createBrowserRouter([
     {
       path: '/',
