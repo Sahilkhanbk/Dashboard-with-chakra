@@ -4,6 +4,7 @@ import { IoIosInformationCircleOutline } from "react-icons/io";
 import { FaArrowDownLong } from "react-icons/fa6";
 import { FaArrowUpLong } from "react-icons/fa6";
 
+
 const PortfolSection = () => {
     return (
         <HStack bg="white" borderRadius="xl" p="6" justify="space-between"
@@ -56,3 +57,4 @@ const PortfolSection = () => {
 }
 
 export default PortfolSection
+
