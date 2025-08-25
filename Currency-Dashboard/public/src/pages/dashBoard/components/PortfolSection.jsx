@@ -17,7 +17,6 @@ const PortfolSection = () => {
                 spacing={{ base: "0", xl: "16px" }}
                 flexDir={{ base: "column", xl: "row" }}
                 align={{ base: "flex-start", xl: "center" }}
-
             >
                 <Stack>
                     <HStack color="black.80">
@@ -57,4 +56,5 @@ const PortfolSection = () => {
 }
 
 export default PortfolSection
+
 
