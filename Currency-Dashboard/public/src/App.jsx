@@ -1,4 +1,3 @@
-
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import './App.css'
 import DashBoard from './pages/dashBoard/DashBoard'
