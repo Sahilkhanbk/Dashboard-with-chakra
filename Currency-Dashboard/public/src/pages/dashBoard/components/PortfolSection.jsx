@@ -26,6 +26,7 @@ const PortfolSection = () => {
                     <Text textStyle="h2" fontWeight="medium"> $ 112,312.24</Text>
                 </Stack>
 
+                
                 <Stack>
                     <HStack color="black.80">
                         <Text fontSize="sm">Walet Balance</Text>
@@ -56,5 +57,6 @@ const PortfolSection = () => {
 }
 
 export default PortfolSection
+
 
 
