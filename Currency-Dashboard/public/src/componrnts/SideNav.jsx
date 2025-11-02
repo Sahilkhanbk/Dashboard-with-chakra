@@ -8,7 +8,6 @@ import { Link } from 'react-router-dom'
 
 
 
-
 const SideNav = () => {
 
     const navLinks = [
@@ -63,6 +62,7 @@ const SideNav = () => {
 }
 
 export default SideNav
+
 
 
 
