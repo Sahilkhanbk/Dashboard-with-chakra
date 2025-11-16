@@ -1,7 +1,6 @@
 import React from 'react'
 
 
-
 import {
     Drawer,
     DrawerBody,
@@ -35,6 +34,7 @@ const SideDrawer = ({ isOpen, onClose }) => {
 }
 
 export default SideDrawer
+
 
 
 
