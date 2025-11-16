@@ -3,7 +3,6 @@ import { extendTheme, withDefaultColorScheme } from "@chakra-ui/react";
 // import { body } from "framer-motion/client";
 
 export const theme = extendTheme({
-
     colors: {
         p: {
             purple: "#5f00d9",
@@ -148,6 +147,7 @@ export const theme = extendTheme({
   withDefaultColorScheme({ colorScheme: "purple" })
 
 );
+
 
 
 
